@@ -67,7 +67,7 @@ http :8080/private -A bearer -a ${JWT}
 
 ## 📜 Licença
 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/DenissonPereira/explore/blob/main/LICENSE) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/DenissonPereira/sping-security-jwt/blob/main/LICENSE) 
 
 ## ✏️ Autor 
 
