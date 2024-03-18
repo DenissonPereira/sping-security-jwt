@@ -60,6 +60,20 @@ JWT=(token gerado aqui)
 http :8080/private Authorization:"Bearer ${JWT}"
 ```
 
+## 📸 Visuals and Screenshots
+
+Dê uma espiada no nosso projeto em funcionamento e esclareça todas as suas dúvidas sobre como executá-lo!
+
+### 🏂 Aplicação em ação
+![Web 1](./public/spring_security_jwt.gif) 
+
+### 📺 Editor de código
+
+Neste projeto, foi utilizado o Visual Studio Code como editor de código.
+
+[![Badge](https://img.shields.io/badge/VSCode-1.65.0-%23007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+
+
 # 🚨 Aguarde! Ainda não terminou!
 
 >Esta aplicação foi desenvolvida com base nas aulas ministradas por Giuliana Bezerra, uma fonte inspiradora de conhecimento. Encorajamos a todos a explorar o repositório de Giuliana Bezerra para obter mais insights e aprender com suas contribuições.
