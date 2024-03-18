@@ -60,14 +60,14 @@ JWT=(token gerado aqui)
 http :8080/private Authorization:"Bearer ${JWT}"
 ```
 
-## 📸 Visuals and Screenshots
+# 📸 Visuals and Screenshots
 
 Dê uma espiada no nosso projeto em funcionamento e esclareça todas as suas dúvidas sobre como executá-lo!
 
-### 🏂 Aplicação em ação
+## 🏂 Aplicação em ação
 ![Web 1](./public/spring_security_jwt.gif) 
 
-### 📺 Editor de código
+## 📺 Editor de código
 
 Neste projeto, foi utilizado o Visual Studio Code como editor de código.
 
