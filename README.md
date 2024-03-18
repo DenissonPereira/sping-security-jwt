@@ -52,11 +52,11 @@ http -a username:password POST :8080/authenticate
 ```
 
 ```
-JWT = (token gerado aqui)
+JWT=(token gerado aqui)
 ```
 
 ```
-http :8080/private -A bearer -a ${JWT}
+http :8080/private Authorization:"Bearer ${JWT}"
 ```
 
 # 🚨 Aguarde! Ainda não terminou!
