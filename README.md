@@ -59,7 +59,7 @@ JWT = (token gerado aqui)
 http :8080/private -A bearer -a ${JWT}
 ```
 
-## 🚨 Aguarde! Ainda não terminou!
+# 🚨 Aguarde! Ainda não terminou!
 
 >Esta aplicação foi desenvolvida com base nas aulas ministradas por Giuliana Bezerra, uma fonte inspiradora de conhecimento. Encorajamos a todos a explorar o repositório de Giuliana Bezerra para obter mais insights e aprender com suas contribuições.
 
