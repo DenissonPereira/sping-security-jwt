@@ -7,15 +7,20 @@ A aplicação **Java** implementa um sistema robusto de autenticação e autoriz
 
 ## 📚 Stack Tecnológica
 
-<img src="./public/menina.gif" min-width="100px" max-width="100px" width="100px" align="right" alt="Computador iuriCode">
+<div style="display: flex; align-items: center;">
+  
+  [![Badge](https://img.shields.io/badge/Java-17-%23FFA500?style=flat&logo=java&logoColor=white)](https://www.oracle.com/java/)
+  [![Badge](https://img.shields.io/badge/Spring%20Boot-3.2.3-%236DB33F?style=flat&logo=spring&logoColor=white)](https://spring.io/projects/spring-boot)
+  [![Badge](https://img.shields.io/badge/JWT-JSON%20Web%20Token-%23000000?style=flat&logo=json-web-tokens&logoColor=white)](https://jwt.io/)
+  [![Badge](https://img.shields.io/badge/Spring%20Security-5.7-%236DB33F?style=flat&logo=spring-security&logoColor=white)](https://spring.io/projects/spring-security)
+  [![Badge](https://img.shields.io/badge/Spring%20MVC-5.3.13-%236DB33F?style=flat&logo=spring&logoColor=white)](https://spring.io/projects/spring-framework)
+  [![Badge](https://img.shields.io/badge/Spring%20Data%20JDBC-2.3.1-%236DB33F?style=flat&logo=spring&logoColor=white)](https://spring.io/projects/spring-data-jdbc)
+  [![Badge](https://img.shields.io/badge/H2-1.4.200-%23FF6F61?style=flat&logo=h2&logoColor=white)](https://www.h2database.com/html/main.html)
 
-[![Badge](https://img.shields.io/badge/Java-17-%23FFA500?style=flat&logo=java&logoColor=white)](https://www.oracle.com/java/)
-[![Badge](https://img.shields.io/badge/Spring%20Boot-3.2.3-%236DB33F?style=flat&logo=spring&logoColor=white)](https://spring.io/projects/spring-boot)
-[![Badge](https://img.shields.io/badge/JWT-JSON%20Web%20Token-%23000000?style=flat&logo=json-web-tokens&logoColor=white)](https://jwt.io/)
-[![Badge](https://img.shields.io/badge/Spring%20Security-5.7-%236DB33F?style=flat&logo=spring-security&logoColor=white)](https://spring.io/projects/spring-security)
-[![Badge](https://img.shields.io/badge/Spring%20MVC-5.3.13-%236DB33F?style=flat&logo=spring&logoColor=white)](https://spring.io/projects/spring-framework)
-[![Badge](https://img.shields.io/badge/Spring%20Data%20JDBC-2.3.1-%236DB33F?style=flat&logo=spring&logoColor=white)](https://spring.io/projects/spring-data-jdbc)
-[![Badge](https://img.shields.io/badge/H2-1.4.200-%23FF6F61?style=flat&logo=h2&logoColor=white)](https://www.h2database.com/html/main.html)
+<p>
+    <img src="./public/menina.gif" alt="Computador iuriCode" min-width="300px" max-width="300px" width="300px" align="right">
+</p>
+</div>
 
 # 🚀 Como executar o projeto 🚀
 
